@@ -1,0 +1,202 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Bonjour, je m'appelle Hamed et je suis en train de...",
+    "summary": "Résumé: Hamed se présente et mentionne qu'elle est en train de faire quelque chose sans préciser quoi.",
+    "questions": [
+      "Question 1: Quelle activité es-tu en train de réaliser, Hamed?",
+      "Question 2: Y a-t-il un objectif particulier que tu souhaites atteindre en faisant cela?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.84,
+    "text": " faire un test de transcription vocale en temps réel donc j'y suis censée",
+    "summary": "Résumé: La personne est en train de réaliser un test de transcription vocale en temps réel.",
+    "questions": [
+      "Question 1: Quel est l'objectif principal de ce test de transcription vocale en temps réel?",
+      "Question 2: Quels outils ou technologies sont utilisés pour effectuer ce test?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.8,
+    "text": " parler dans les micros et je vais obtenir une transcription, une analyse intelligente.",
+    "summary": "Résumé: Le texte mentionne l'utilisation de micros pour obtenir une transcription et une analyse intelligente.",
+    "questions": [
+      "Question 1: Quel est l'objectif principal de l'analyse intelligente mentionnée dans le texte?",
+      "Question 2: Quels types de micros sont utilisés pour capturer les paroles dans le contexte décrit?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " des questions et un compte rendu en temps réel.",
+    "summary": "Résumé: Le texte mentionne un échange de questions et un compte rendu effectué en temps réel.",
+    "questions": [
+      "Question 1: Quel est le contexte ou le sujet principal des questions posées?",
+      "Question 2: Qui est responsable d'établir le compte rendu en temps réel?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 2.84,
+    "text": " que j'obtiens sur la fenêtre que vais en face du mois.",
+    "summary": "Résumé: Le texte semble mentionner une observation faite à travers une fenêtre concernant un mois précis.",
+    "questions": [
+      "Question 1: Qu'est-ce que l'on obtient exactement sur la fenêtre en face du mois?",
+      "Question 2: Quelle est l'importance ou le contexte de cette observation par rapport au mois mentionné?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Bonjour, je m'appelle Hamed et je suis actuellement en train de faire de la transcrétion.",
+    "summary": "Résumé: Hamed se présente et indique qu'elle est en train de réaliser un travail de transcréation.",
+    "questions": [
+      "Question 1: Qu'est-ce que la transcréation exactement et comment diffère-t-elle de la traduction classique?",
+      "Question 2: Quel type de contenu Hamed est-elle en train de transcréer actuellement?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.76,
+    "text": " de la transcription vocale en temps réel donc je suis censée parler dans le micro",
+    "summary": "Résumé: L'interlocuteur utilise la transcription vocale en temps réel en parlant dans le micro.",
+    "questions": [
+      "Question 1: Quel est le contexte ou l'objectif de l'utilisation de la transcription vocale en temps réel?",
+      "Question 2: Quels outils ou logiciels sont utilisés pour réaliser cette transcription vocale?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.88,
+    "text": " et je vais obtenir une transcription et une analyse intelligente.",
+    "summary": "Résumé: Le texte mentionne l'intention d'obtenir une transcription et une analyse intelligente.",
+    "questions": [
+      "Question 1: Quel type de contenu ou de conversation souhaitez-vous transcrire et analyser?",
+      "Question 2: Quels sont les objectifs ou les attentes spécifiques que vous avez pour l'analyse intelligente?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.76,
+    "text": " Donc au fur et à mesure que je parle, j'ai des questions.",
+    "summary": "Résumé: L'orateur soulève des questions au fil de son discours.",
+    "questions": [
+      "Question 1: Quelles sont les questions qui se posent à mesure que vous parlez?",
+      "Question 2: Quels sujets ou thèmes abordez-vous qui suscitent ces questions?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.16,
+    "text": " une analyse et un compte rendu en temps réel qui me sera donné.",
+    "summary": "Résumé: Le texte parle de la réception d'une analyse et d'un compte rendu en temps réel.",
+    "questions": [
+      "Question 1: Quel type d'analyse est attendu dans le compte rendu en temps réel?",
+      "Question 2: Qui fournira l'analyse et le compte rendu en temps réel?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.32,
+    "text": " bien sur ma fenêtre, compte rendu, question etc. Merci !",
+    "summary": "Résumé: Le texte mentionne une fenêtre, un compte rendu et une question, et se termine par un remerciement.",
+    "questions": [
+      "Question 1: Quel est le sujet du compte rendu mentionné dans le texte ?",
+      "Question 2: Quelle est la question à laquelle le texte fait référence ?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Non, je crée un truc qui fonctionne super bien.",
+    "summary": "Résumé: L'auteur affirme avoir créé quelque chose qui fonctionne très bien.  ",
+    "questions": [
+      "Question 1: Quel est le \"truc\" que vous avez créé qui fonctionne si bien ?",
+      "Question 2: Comment mesurez-vous l'efficacité de ce que vous avez créé ?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " On a créé un truc, je parle, et il pose des questions et fait un contrôle.",
+    "summary": "Résumé: Un outil a été développé pour interagir par la parole et effectuer des contrôles en posant des questions.",
+    "questions": [
+      "Question 1: Quel est l'objectif principal de cet outil ou \"truc\" créé?",
+      "Question 2: Quel type de contrôle l'outil est-il capable de réaliser?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Ouais donc je suis trop contente parce que moi je vais avoir...",
+    "summary": "Résumé: La personne exprime sa joie à l'idée de recevoir quelque chose prochainement.",
+    "questions": [
+      "Question 1: Qu'est-ce qui te rend particulièrement contente dans cette situation?",
+      "Question 2: Que vas-tu recevoir qui te rend si heureuse?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " J'ai l'aider avec, il faut bien que j'aie créé et qu'il y a bien évidemment à ma idée parce que je n'ai l'ai l'ai l'ai l'ai fait.",
+    "summary": "Résumé: Le texte semble confus et répétitif, exprimant une tentative d'aider et de créer quelque chose, mais manque de clarté.",
+    "questions": [
+      "Question 1: Quel était l'objectif principal de votre aide et qu'avez-vous cherché à créer?",
+      "Question 2: Pouvez-vous clarifier ce que vous avez fait exactement et pourquoi c'était important pour vous?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " J'ai l'impression que c'est vraiment...",
+    "summary": "Résumé: Le texte exprime un sentiment ou une impression personnelle de l'auteur.",
+    "questions": [
+      "Question 1: Quelle est la nature de l'impression ressentie par l'auteur ?",
+      "Question 2: Quels éléments ont conduit l'auteur à avoir cette impression ?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Boulètes, mais moi je suis pas trop poison panne.",
+    "summary": "Résumé: L'auteur exprime une préférence pour les boulètes mais se montre réticent envers le poison panne.",
+    "questions": [
+      "Question 1: Que sont exactement les \"boulètes\" et pourquoi les appréciez-vous?",
+      "Question 2: Qu'entendez-vous par \"poison panne\" et pourquoi n'êtes-vous pas trop favorable à cela?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " C'est trop bien à ce moment-là.",
+    "summary": "Résumé: L'auteur exprime une appréciation positive d'un moment particulier.",
+    "questions": [
+      "Question 1: Quel événement ou quelle situation spécifique rend ce moment si agréable pour l'auteur?",
+      "Question 2: Pourquoi ce moment est-il particulièrement significatif par rapport à d'autres moments?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Ah, mais on mange pas avec...",
+    "summary": "Résumé: Le texte laisse entendre une situation où quelque chose d'inhabituel ou d'inattendu est associé à un repas.",
+    "questions": [
+      "Question 1: À quelle situation ou événement le texte fait-il référence en disant \"on mange pas avec\"?",
+      "Question 2: Qui ou quoi est impliqué dans cette situation où l'on ne mange pas avec quelque chose?"
+    ]
+  },
+  {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Bonjour, je m'appelle Ben.",
+    "summary": "Résumé: Le texte introduit une personne nommée Ben.",
+    "questions": [
+      "Question 1: Quelle est la raison de la présentation d'Ben ?",
+      "Question 2: Dans quel contexte Ben a-t-il fait cette introduction ?"
+    ]
+  }
+]
